@@ -1,11 +1,11 @@
 {
-  "name": "Yacht-Jet",
+  "name": "Yacht-Project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Yacht-Jet/",
+    "build": "vite build --base=/Yacht-Project/",
     "preview": "vite preview"
   },
   "devDependencies": {
